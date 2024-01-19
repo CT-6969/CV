@@ -2,9 +2,9 @@
 Curriculum Vitæ
 # Curriculum Vitae - Corto
 ## **Información Personal**
-- **Name:** Santiago Lucas Vallejo
-- **Address:** 2051 Boulogne Sur Mer, Tapiales, La Matanza, 1770
-- **Phone:** +54 11 53366134
+- **Nombre:** Santiago Lucas Vallejo
+- **Dirección:** 2051 Boulogne Sur Mer, Tapiales, La Matanza, 1770
+- **Teléfono:** +54 11 53366134
 - **Email:** lucas_s-vallejo@hotmail.com
 - **LinkedIn:** [linkedin.com/in/santiago-lucas-vallejo-120ba6279](https://www.linkedin.com/in/santiago-lucas-vallejo-120ba6279/ )
 - **GitHub:** [github.com/CT-6969](https://github.com/CT-6969)
