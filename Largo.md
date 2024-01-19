@@ -80,7 +80,7 @@ Apasionado por la arquitectura en software y hardware, con enfoque en la investi
 - **Atención al detalle**
 
 ## **Certificaciones**
-- ** Java Developer Core**  *(Tecmilenio)* *en proceso*
+- **Java Developer Core**  *(Tecmilenio)* *en proceso*
 - **Curso de habilidades socio-emocionales** *en proceso*
 
 ## **Experiencia Laboral**
@@ -101,11 +101,14 @@ Apasionado por la arquitectura en software y hardware, con enfoque en la investi
 ### **Proyecto: Sistema de Gestión de Start-Up: _PearBIT⌃𝑒_**
 
 #### **Motivación**
- -Desarrollar sistema con un enfoque único en la consultoría en el que se destaque la rigurosidad en los detalles que llevan a solución de problemas complejos de la gestión de proyectos.
+ Desarrollar sistema con un enfoque único en la consultoría en el que se destaque la rigurosidad en los detalles que llevan a solución de problemas complejos de la gestión de proyectos.
 #### **Objetivos**
 **1.** Implementar un sistema de infraestructura para la gestión de la Start-Up .
+
 **2.** Encontrar el balance entre rigurosidad y la consistencia del proyecto.
+
 **3.** Incorporar nuevo conocimeinto con el uso e implementación de las tecnologías *(como FreeBSD, entre otras tecnologías de hardware)*
+
 **4.** Hacer uso del conocimiento adquirido en las prácticas profesionales.
 
 #### **Metodología**
