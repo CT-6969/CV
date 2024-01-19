@@ -64,4 +64,5 @@ Apasionado por la arquitectura en software y hardware, con enfoque en la investi
   - Liderázgo Personal: *https://www.acreditta.com/credential/d6bd42a4-7469-48f7-a021-4a45b1354066*
   - Trabajo en Equipo: https://www.acreditta.com/credential/dea41554-b766-40ae-b888-0006f8487c33
   - 50 diseños en Canva: https://www.canva.com/design/DAFrN9F1og4/od2249kHinQ03o-PP1T3pg/watch?utm_content=DAFrN9F1og4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+---
 *Más referencias a consultar.*
