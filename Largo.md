@@ -98,14 +98,15 @@ Apasionado por la arquitectura en software y hardware, con enfoque en la investi
 
 ## **Proyectos Personales**
 
-### **Proyecto: Sistema de Gestión de Start-Up: PearBIT⌃𝑒**
+### **Proyecto: Sistema de Gestión de Start-Up: _PearBIT⌃𝑒_**
+
 #### **Motivación**
  -Desarrollar sistema con un enfoque único en la consultoría en el que se destaque la rigurosidad en los detalles que llevan a solución de problemas complejos de la gestión de proyectos.
 #### **Objetivos**
-** 1.** Implementar un sistema de infraestructura para la gestión de la Start-Up .
- **2.** Encontrar el balance entre rigurosidad y la consistencia del proyecto.
- **3.** Incorporar nuevo conocimeinto con el uso e implementación de las tecnologías *(como FreeBSD, entre otras tecnologías de hardware)*
-** 4.** Hacer uso del conocimiento adquirido en las prácticas profesionales.
+**1.** Implementar un sistema de infraestructura para la gestión de la Start-Up .
+**2.** Encontrar el balance entre rigurosidad y la consistencia del proyecto.
+**3.** Incorporar nuevo conocimeinto con el uso e implementación de las tecnologías *(como FreeBSD, entre otras tecnologías de hardware)*
+**4.** Hacer uso del conocimiento adquirido en las prácticas profesionales.
 
 #### **Metodología**
   -**Metodologías Ágiles** en conjunto con el ciclo de vida de proyecto según **Edward Yourdon**.
@@ -117,12 +118,12 @@ Apasionado por la arquitectura en software y hardware, con enfoque en la investi
 
 ## **Bibliografía de referencias**
 - Prácticas Profesionales:
- - ConsulTec: *https://buenosaires.gob.ar/enlace-ciencias/consultec* 
- - Empresa Simulada: *https://buenosaires.gob.ar/educacion/estudiantes/sistema-educativo/secundario/practicas-profesionalizantes* 
- - Certificado de Lengua Extranjera: Ciclo de Idiomas Largo – Ciudad Autónoma de Buenos Aires: https://buenosaires.gob.ar/areas/educacion/programas/cle/escuelas_info.php?menu_id=31110 
- - Certificación en habilidades socio-emocionales: *https://fondationforge.org/tu-futuro*
- - Certificación Java Developer Core: *https://nowisnao.com/products/64c3fbc1abf2815207ff20b5*
- - Título Técnico en Computación RES 4147-12: *https://boletinoficial.buenosaires.gob.ar/normativaba/norma/256517*
+  - ConsulTec: *https://buenosaires.gob.ar/enlace-ciencias/consultec* 
+  - Empresa Simulada: *https://buenosaires.gob.ar/educacion/estudiantes/sistema-educativo/secundario/practicas-profesionalizantes* 
+  - Certificado de Lengua Extranjera: Ciclo de Idiomas Largo – Ciudad Autónoma de Buenos Aires: https://buenosaires.gob.ar/areas/educacion/programas/cle/escuelas_info.php?menu_id=31110 
+  - Certificación en habilidades socio-emocionales: *https://fondationforge.org/tu-futuro*
+  - Certificación Java Developer Core: *https://nowisnao.com/products/64c3fbc1abf2815207ff20b5*
+  - Título Técnico en Computación RES 4147-12: *https://boletinoficial.buenosaires.gob.ar/normativaba/norma/256517*
 - Insigneas adquridas: 
   - Orientación al logro: https://www.acreditta.com/credential/65bc8467-42c4-4e0c-90b0-ca452d16a914
   - Liderázgo Personal: https://www.acreditta.com/credential/d6bd42a4-7469-48f7-a021-4a45b1354066
