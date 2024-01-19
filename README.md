@@ -1,6 +1,6 @@
 # CV
 Curriculum Vitæ
-# Curriculum Vitae - Corto
+# Curriculum Vitæ - Corto
 ## **Información Personal**
 - **Nombre:** Santiago Lucas Vallejo
 - **Dirección:** 2051 Boulogne Sur Mer, Tapiales, La Matanza, 1770
