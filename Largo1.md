@@ -112,10 +112,10 @@ Apasionado por la arquitectura en software y hardware, con enfoque en la investi
 **4.** Hacer uso del conocimiento adquirido en las prácticas profesionales.
 
 #### **Metodología**
-   -**Metodologías Ágiles** en conjunto con el ciclo de vida de proyecto según **Edward Yourdon**.
+    -**Metodologías Ágiles** en conjunto con el ciclo de vida de proyecto según **Edward Yourdon**.
 #### **Resultados**
-  -Creación de esquemas de trabajo y gestión de soluciones para una documentación óptima y rigurosa.
-  -Implementación de hardware reciclado para la topología de red.
+   -Creación de esquemas de trabajo y gestión de soluciones para una documentación óptima y rigurosa.
+   -Implementación de hardware reciclado para la topología de red.
 
 ---
 
