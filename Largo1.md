@@ -13,7 +13,7 @@ Apasionado por la arquitectura en software y hardware, con enfoque en la investi
 
 ## **Educación**
 - **Técnico con especialización en computación y robótica**
-  - _Escuela Técnica N°29 d.e. 06 _, Marzo 2019 - Diciembre 2022 
+  - _Escuela Técnica N°29 d.e. 06_, Marzo 2019 - Diciembre 2022 
 - **Licenciatura en Ciencias de la Computación**
   - _Universidad de Buenos Aires_, Marzo 2023 - Actualidad
 
