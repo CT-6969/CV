@@ -8,13 +8,18 @@
 - **LinkedIn:** [linkedin.com/in/santiago-lucas-vallejo-120ba6279](https://www.linkedin.com/in/santiago-lucas-vallejo-120ba6279/ )
 - **GitHub:** [github.com/CT-6969](https://github.com/CT-6969)
 ## **Perfil Personal**
-Apasionado por la arquitectura en software y hardware, con enfoque en la investigación en ciencias de la computación y telecomunicaciones, especializado en el desarrollo de nuevas tecnologías. Enfocado en soluciones innovadoras, eficientes y seguras, impulsado por el pragmatismo y la rigurosidad. 
+Apasionado por la arquitectura en software y hardware, con enfoque en la investigación en ciencias de la computación y telecomunicaciones, especializado en las tecnologías GNU y UNIX. Contando con experiencia en operaciones destacando con habilidad práctica en el análisis y resolución de problemas complejos, adaptabilidad a entornos críticos, de oficina y producción. Enfocado en soluciones innovadoras, eficientes y seguras, impulsado por el pragmatismo y la rigurosidad.
 ## **Educación**
 - **Técnico con especialización en computación y robótica**
-  - _Escuela Técnica N°29 d.e. 06_, Marzo 2019 - Diciembre 2022 
-- **Licenciatura en Ciencias de la Computación**
-  - _Universidad de Buenos Aires_, Marzo 2023 - Actualidad
-## **Habilidades duras** *(consultar por referencias)*
+  - _Escuela Técnica N°29 d.e. 06_, Marzo 2016 - Diciembre 2022 
+- **Matriculación en Electrónica Industrial y Sistemas de Control**
+  - _Instituto Madero_, Marzo 2025 - Actualidad
+## **Habilidades duras**
+- **Pragmatismo.**
+- **Rigurosidad.**
+- **Diagramas UML.**
+- **Documentación Ágil.**
+- **
 - **Idiomas:**
   - **Inglés** *(CLE-CIL)*
 - **Lenguajes de Programación:**
@@ -40,10 +45,10 @@ Apasionado por la arquitectura en software y hardware, con enfoque en la investi
 - **Atención al detalle**
 ## **Certificaciones**
 - **Java Developer Core**  **_(Tecmilenio)_** *en proceso*
-- **Curso de habilidades socio-emocionales** **_(Forge)_** *en proceso*
+- **Curso de habilidades socio-emocionales** **_(Forge)_**   *terminado*
 ## **Experiencia Laboral**
 - **Junior Full-Stack Developer**
-  - _Consultoría Independiente_, Enero 2023 - Marzo 2023
+  - _Consultoría Independiente_, Enero 2023 - Diciembre 2023
     - Colaborando en el desarrollo y mantenimiento de sistemas del lado del       servidor y del cliente usando tecnologías **PHP** como **Composer**.
     - Asistencia en _tareas de administración y desarrollo de bases de datos_, optimizando consultas, y auditando la integridad de los datos.
     - Llevado a cabo _unidades de testeo_ y _arreglo de bugs_, contribuyendo en la fiabilidad del software.
